@@ -1,0 +1,15 @@
+,subgroup_auc,bpsn_auc,bnsp_auc
+male,0.9264,0.9251,0.952
+female,0.9196,0.9344,0.9415
+transgender,0.8299,0.8754,0.934
+heterosexual,0.8228,0.8482,0.9441
+homosexual_gay_or_lesbian,0.8529,0.8465,0.9532
+christian,0.9417,0.9532,0.9362
+jewish,0.89,0.9037,0.9437
+muslim,0.855,0.8724,0.9487
+atheist,0.9314,0.9225,0.953
+black,0.8657,0.8235,0.9667
+white,0.8544,0.8374,0.9624
+asian,0.9189,0.929,0.941
+latino,0.9422,0.9319,0.9549
+psychiatric_or_mental_illness,0.9494,0.8954,0.9776

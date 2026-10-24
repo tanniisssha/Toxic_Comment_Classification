@@ -1,0 +1,19 @@
+{
+  "method": "temperature",
+  "temperatures": {
+    "toxic": 1.1929582225591515,
+    "obscene": 1.101354526308634,
+    "threat": 1.0454871457051884,
+    "insult": 1.2146397020343034,
+    "identity_hate": 1.1137739581052848,
+    "sexual_explicit": 1.0774094465044548
+  },
+  "labels": [
+    "toxic",
+    "obscene",
+    "threat",
+    "insult",
+    "identity_hate",
+    "sexual_explicit"
+  ]
+}

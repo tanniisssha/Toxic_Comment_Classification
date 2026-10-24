@@ -1,0 +1,11 @@
+streamlit>=1.32
+torch
+transformers>=4.38
+safetensors
+shap
+scikit-learn
+pandas
+numpy
+pyarrow
+plotly
+matplotlib

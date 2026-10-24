@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+.venv/
+
+# Large trained model
+final_model/model.safetensors
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment secrets
+.env
